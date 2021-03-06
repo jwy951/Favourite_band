@@ -1,0 +1,95 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px 80px 10px 80px;
+    align-items: baseline;
+    border: 8px solid blue;
+    border-radius: 2px;
+    margin: 14px 90px 10px 90px;
+    padding-bottom: 3cm;
+    text-align: center;
+}
+h1{
+    font-size: 40;
+    font-weight: 600;
+    text-align: center;
+    color: navy;
+    text-decoration: underline;   
+}
+ul {
+    border: 5px solid blue;
+      height: 100px;
+      width: 180px;
+      overflow: auto;
+      text-align: left; 
+    }
+ol{
+    border: 3px solid blue;
+      
+    /*Add your CSS below this line*/
+      
+      height: 100px;
+      width: 180px;
+      overflow: auto;
+      text-align: left;
+  }
+
+ul{
+    background-color: rgb(63,224,230);
+    border-radius: 4px;
+    padding: 10px 20px 10px 30px;
+    margin: 15px;
+    font-size: 20px;
+
+}
+
+ol{
+    background-color: rgb(63, 224, 230);
+    border-radius: 4px;
+    padding: 10px 20px 10px 30px;
+    margin: 5px;
+    font-size: 20px;
+}
+
+#header {
+    width: 100%;
+    height: 20px;
+    color: teal;
+    animation-name: header;
+    animation-duration: 5s;
+  }
+  
+  @keyframes header {
+    0%   {color: red;}
+    25%  {bcolor: yellow;}
+    50%  {color: blue;}
+    100% {color: green;}
+  }
+
+  h2{
+      color: orchid;
+      padding-top: 15px;
+  }
+  h3{
+      color:brown
+  }
+  h4{
+      color:crimson
+  }
+
+  p{
+      font-size: 20px;
+  }
+
+  div{
+      font-size: 18px;
+      color: blue;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  #list{
+      margin-top: 10%;
+      margin-left: 15%;
+      margin-right: 15%;
+  }

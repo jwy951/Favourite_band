@@ -1,0 +1,50 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	deleted:    .gitss/COMMIT_EDITMSG
+#	deleted:    .gitss/HEAD
+#	deleted:    .gitss/config
+#	deleted:    .gitss/description
+#	deleted:    .gitss/hooks/applypatch-msg.sample
+#	deleted:    .gitss/hooks/commit-msg.sample
+#	deleted:    .gitss/hooks/fsmonitor-watchman.sample
+#	deleted:    .gitss/hooks/post-update.sample
+#	deleted:    .gitss/hooks/pre-applypatch.sample
+#	deleted:    .gitss/hooks/pre-commit.sample
+#	deleted:    .gitss/hooks/pre-merge-commit.sample
+#	deleted:    .gitss/hooks/pre-push.sample
+#	deleted:    .gitss/hooks/pre-rebase.sample
+#	deleted:    .gitss/hooks/pre-receive.sample
+#	deleted:    .gitss/hooks/prepare-commit-msg.sample
+#	deleted:    .gitss/hooks/update.sample
+#	deleted:    .gitss/index
+#	deleted:    .gitss/info/exclude
+#	deleted:    .gitss/logs/HEAD
+#	deleted:    .gitss/logs/refs/heads/blue_theme
+#	deleted:    .gitss/logs/refs/heads/gh-pages
+#	deleted:    .gitss/logs/refs/heads/master
+#	deleted:    .gitss/logs/refs/remotes/origin/gh-pages
+#	deleted:    .gitss/logs/refs/remotes/origin/master
+#	deleted:    .gitss/objects/11/e329bdc896360e5d01bbd79a66fe59349d74e4
+#	deleted:    .gitss/objects/1f/8c79a57bd754fc7a2f467f568a371de33ef03b
+#	deleted:    .gitss/objects/4f/4cc7bc246d805ba8df14446b70b854d65ff4fb
+#	deleted:    .gitss/objects/5c/300dee3dc431d1f847f12cc92afa5b4afff1cb
+#	deleted:    .gitss/objects/8c/0e669066064306369fd93bba7843be01613e11
+#	deleted:    .gitss/objects/8f/121a8229b3f9fa5bf90baf6302b68cdaeeffa9
+#	deleted:    .gitss/objects/9c/8a4a39f334c35a72dc2388dbcde9be4d2cfb63
+#	deleted:    .gitss/objects/bc/eb573f0a08bb3e5bf233a7124babdd248eafde
+#	deleted:    .gitss/objects/c0/f5c5a1ad015bd18faea888432f9dfda0f770ac
+#	deleted:    .gitss/objects/c4/7a4ea5f1054e487396ce9d9ec0df92d9eae110
+#	deleted:    .gitss/objects/e0/85665300a4ad58ae932304a5710d3439f2ea44
+#	deleted:    .gitss/objects/fe/b928a71bfeb758b601bd2a7010b73ba1f25bb9
+#	deleted:    .gitss/refs/heads/blue_theme
+#	deleted:    .gitss/refs/heads/gh-pages
+#	deleted:    .gitss/refs/heads/master
+#	deleted:    .gitss/refs/remotes/origin/gh-pages
+#	deleted:    .gitss/refs/remotes/origin/master
+#
+git commit -m "first mes"
+
